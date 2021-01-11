@@ -1,0 +1,30 @@
+_repo: Soil-and-Water-Pollution-Presented-to-the-American-Public-Health-Association-at-New-Orleans-D__64143
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Runnels, M. T. (Moses Thurston)
+    aliases:
+    - Runnels, Moses T.
+    - Runnels, Moses Thurston
+    birthdate: 1830
+    deathdate: 1902
+    gutenberg_agent_id: '52770'
+    url: http://www.gutenberg.org/2009/agents/52770
+description: ''
+gutenberg_issued: '2020-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Water-supply -- Indiana -- Indianapolis'
+- !lcc 'TD'
+- !lcsh 'Water -- Pollution'
+- GITenberg
+title: 'Soil and Water Pollution : Presented to the American Public Health Association
+  at New Orleans, Dec. 1880'
+url: http://www.gutenberg.org/ebooks/64143
