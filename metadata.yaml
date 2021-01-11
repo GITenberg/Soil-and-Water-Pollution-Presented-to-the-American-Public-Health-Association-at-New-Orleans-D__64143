@@ -1,5 +1,8 @@
 _repo: Soil-and-Water-Pollution-Presented-to-the-American-Public-Health-Association-at-New-Orleans-D__64143
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64143-h/images/cover.jpg
 creator:
   author:
     agent_name: Runnels, M. T. (Moses Thurston)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '52770'
     url: http://www.gutenberg.org/2009/agents/52770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64143#Soil-and-Water-Pollution-Presented-to-the-American-Public-Health-Association-at-New-Orleans-D_
 gutenberg_issued: '2020-12-27'
 gutenberg_type: Text
 identifiers:
